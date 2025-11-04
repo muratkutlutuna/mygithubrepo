@@ -3,7 +3,7 @@ entries:
   clarus-chart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-11-04T10:19:25.026586816Z"
+    created: "2025-11-04T10:23:52.0564398Z"
     description: A Helm chart for Kubernetes
     digest: ccad291f0a3c4f2f6ac6201684cb56ab35fe60908356b5e76db6040757383e97
     name: clarus-chart
@@ -11,4 +11,15 @@ entries:
     urls:
     - clarus-chart-0.1.0.tgz
     version: 0.1.0
-generated: "2025-11-04T10:19:25.026122973Z"
+  second-chart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-11-04T10:23:52.057377516Z"
+    description: A Helm chart for Kubernetes
+    digest: 82b8de04ff6c0d2ada1a529745cf86b512d6cbf4a245bbb094a5743b89b5a663
+    name: second-chart
+    type: application
+    urls:
+    - second-chart-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-11-04T10:23:52.056032168Z"
